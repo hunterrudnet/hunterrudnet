@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hunterrudnet
 - 👀 I’m interested in Software/Security Engineering
-- 🌱 I’m currently learning @BCG how Security is handled at scale
+- 🌱 I’m currently working on Automation efforts at The Boston Consulting Group
 - 📫 How to reach me [LinkedIN](https://www.linkedin.com/in/hunterrudnet/)
 
 <!---
