@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hunterrudnet
-- 👀 I’m interested in Software Engineering and solving Practical Security challenges with code!
+- 👀 I’m interested in Software Engineering, Finance, and Security!
 - 🌱 I’m currently interning as a Software Engineer @ Stripe & Datadog
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/hunterrudnet/)
 
